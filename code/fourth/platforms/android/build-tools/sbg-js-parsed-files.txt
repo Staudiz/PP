@@ -1,0 +1,5 @@
+E:\data\02_Programming\Organizer\code\fourth\platforms\android\app\src\main\assets\app\bundle.3fbfba034b42f8e9b825.hot-update.js
+E:\data\02_Programming\Organizer\code\fourth\platforms\android\app\src\main\assets\app\bundle.js
+E:\data\02_Programming\Organizer\code\fourth\platforms\android\app\src\main\assets\app\runtime.3fbfba034b42f8e9b825.hot-update.js
+E:\data\02_Programming\Organizer\code\fourth\platforms\android\app\src\main\assets\app\runtime.js
+E:\data\02_Programming\Organizer\code\fourth\platforms\android\app\src\main\assets\app\vendor.js
